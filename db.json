@@ -1,0 +1,61 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "usuario": "Sergio Tejeda",
+      "email": "sergio.tejeda@bosonit.com"
+    }
+  ],
+  "persons": [
+    {
+      "name": "Sergio",
+      "email": "test@test.com",
+      "password": "123456",
+      "password2": "123456",
+      "notifications": true,
+      "country": "Spain",
+      "city": "Madrid",
+      "id": 1
+    },
+    {
+      "name": "Elena",
+      "email": "test1@test.com",
+      "password": "123456",
+      "password2": "123456",
+      "notifications": false,
+      "country": "Portugal",
+      "city": "Lisboa",
+      "id": 2
+    },
+    {
+      "name": "Laura Pedros",
+      "email": "test3@test.com",
+      "password": "123456",
+      "password2": "123456",
+      "notifications": true,
+      "country": "Spain",
+      "city": "Cullera",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "Dioni",
+      "password": "123456",
+      "password2": "123456",
+      "email": "dioni@gmail.com",
+      "notifications": true,
+      "country": "Spain",
+      "city": "Cordoba"
+    },
+    {
+      "id": 5,
+      "name": "prueba1234",
+      "password": "123456",
+      "password2": "123456",
+      "email": "serg@serg.com",
+      "notifications": true,
+      "country": "Spain",
+      "city": "Jaen"
+    }
+  ]
+}
